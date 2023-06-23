@@ -25,8 +25,10 @@ npx cypress run --spec="./cypress/e2e/bitlytest.cy.ts"
 
 
 # Test run results - 
-See test run video available at cypress/videos/bitlytest.cy.ts.mp4
-![Video](./cypress/videos/bitlytest.cy.ts.mp4)
+See test run video available at 
+
+<video src="https://github.com/vanitha128/CypressUITests/assets/64456109/6956d280-43b2-4cff-9a4d-c247b4dca5b9"></video>
+
 
 - [ ] Include clicking link from the bitly page
 - [ ] Include more cases like
